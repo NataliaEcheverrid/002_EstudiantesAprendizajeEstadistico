@@ -1,4 +1,9 @@
-numpy
 pandas
 matplotlib
 seaborn
+fitter
+numpy
+scipy
+sympy
+scikit-learn
+tensorflow
